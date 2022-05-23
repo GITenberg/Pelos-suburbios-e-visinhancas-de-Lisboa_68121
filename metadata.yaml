@@ -1,0 +1,27 @@
+_repo: Pelos-suburbios-e-visinhancas-de-Lisboa_68121
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pereira, Gabriel
+    birthdate: 1847
+    deathdate: 1911
+    gutenberg_agent_id: '31717'
+    url: http://www.gutenberg.org/2009/agents/31717
+description: ''
+gutenberg_issued: '2022-05-19'
+identifiers:
+  gutenberg: '68121'
+language: pt
+pgterms:marc905: 20110522135401pereira
+pgterms:marc906: '1910'
+pgterms:marc907: PT
+production_note: Rita Farinha, Alberto Manuel Brandão Simões and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: Portugal :A. M. Teixeira & Ca,1910.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Pelos suburbios e visinhanças de Lisboa
+url: http://www.gutenberg.org/ebooks/68121

@@ -1,5 +1,8 @@
 _repo: Pelos-suburbios-e-visinhancas-de-Lisboa_68121
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68121-h/images/cover.jpg
 creator:
   author:
     agent_name: Pereira, Gabriel
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '31717'
     url: http://www.gutenberg.org/2009/agents/31717
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68121#Pelos-suburbios-e-visinhancas-de-Lisboa
 gutenberg_issued: '2022-05-19'
 identifiers:
   gutenberg: '68121'
